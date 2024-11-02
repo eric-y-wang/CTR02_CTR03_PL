@@ -8,3 +8,5 @@ PAL008 -> experiment with monocle3 DE
 
 PAL009 -> Gene Module analysis
 
+PAL014 -> Pseudotime Analysis
+
