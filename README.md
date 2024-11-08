@@ -10,3 +10,6 @@ PAL009 -> Gene Module analysis
 
 PAL014 -> Pseudotime Analysis
 
+PAL017 -> double knockout analysis
+
+PAL018 -> Pseudotime DE comparisions
